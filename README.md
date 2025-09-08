@@ -27,6 +27,6 @@ A continuación se explicarán las variables encontradas en la base de datos *sp
 
 Este proyecto incluye los siguientes documentos:
 
-- Reporte en formato ipynb
-- Reporte en formato html
+- [Reporte en formato ipynb](P_P1.ipynb)
+- [Reporte en formato html](P_P1.html)
 - [Base de datos](spotifydataset.csv)
