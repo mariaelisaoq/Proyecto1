@@ -24,3 +24,9 @@ A continuación se explicarán las variables encontradas en la base de datos *sp
 - **tempo** → Tempo estimado de la canción en beats per minute (BPM).
 - **time_signature** → Compás estimado de la canción, es decir, cuántos tiempos hay en cada barra. Toma valores enteros entre 3 y 7 (ej. 3/4, 4/4, 7/4).
 - **track_genre** → Género musical al que pertenece la canción.
+
+Este proyecto incluye los siguientes documentos:
+
+- Reporte en formato ipynb
+- Reporte en formato html
+- [Base de datos](spotifydataset.csv)
